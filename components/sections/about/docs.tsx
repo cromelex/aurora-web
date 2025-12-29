@@ -123,7 +123,7 @@ export default function AboutDocs() {
                 {t("visit-forums")} <PersonStanding size={24} />
               </a>
               <a
-                href={"https://discord.gg/HU3BvDRcRe"}
+                href={"https://discord.getaurora.dev"}
                 target={"_blank"}
                 rel={"noreferrer"}
                 className={

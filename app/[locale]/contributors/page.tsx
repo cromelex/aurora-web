@@ -385,7 +385,7 @@ export default function ContributorsPage() {
               {t("contribute-github")}
             </a>
             <a
-              href="https://discord.gg/HU3BvDRcRe"
+              href="https://discord.getaurora.dev"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 rounded-xl border border-zinc-600 bg-zinc-800 px-6 py-3 font-semibold text-white transition-all hover:border-zinc-500 hover:bg-zinc-700"
